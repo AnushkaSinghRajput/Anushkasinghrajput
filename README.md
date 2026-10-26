@@ -1,6 +1,6 @@
 # Anushka Singh Rajput 👩‍💻
 
-### 👋 Hi there! I'm Anushka, a passionate **Software Engineer** with expertise in:
+### 👋 Hi there! I'm Anushka, a **Software Engineer** with expertise in:
 - **Languages**: Java, Python, C  
 - **Development**: DSA, Full-Stack Development  
 - **Tools & Platforms**: Docker, Azure  
